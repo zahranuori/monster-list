@@ -1,6 +1,8 @@
 import React from "react";
 import {useEffect,useState} from "react";
 import {MonsterCard} from "..";
+import "./MonsterList.style.css"
+import notFonud from "./../../img/not-found.jpg"
 import {Container,Row,Col,FormControl,InputGroup} from "react-bootstrap";
 const MonsterList = () => {
     const [monsterList , setMonsterList]= useState([])
@@ -56,7 +58,9 @@ const MonsterList = () => {
            </Row>
            <Row>
                {/*{monsterList.map((monster) =>*/}
-               {monsterList.filter(monster =>monster.name.toLowerCase().includes(filter.toLowerCase())).map((monster) =>(
+               {monsterList.filter(monster =>monster.name.toLowerCase().includes(filter.toLowerCase())).length ===0 ?
+                   <div className="not-found-monster"><h2>هیچ هیولایی نیست</h2><img src={notFonud}/> </div>:
+                   monsterList.filter(monster =>monster.name.toLowerCase().includes(filter.toLowerCase())).map((monster) =>(
                       <Col className="mb-3" key={monster.id} xs={12} sm={6} md={4} lg={3}>
                           <MonsterCard name={monster.name} description={monster.website} img={"https://robohash.org/"+monster.username}/>
                       </Col>

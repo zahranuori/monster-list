@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eff6705e-701c-4758-8bac-c33e070b5fc1" name="Changes" comment="monster list api">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/MonsterList/MonsterList.jsx" afterDir="false" />
+    <list default="true" id="eff6705e-701c-4758-8bac-c33e070b5fc1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Components/MonsterList/MonsterList.style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/MonsterList/MonsterList.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/MonsterList/MonsterList.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,11 +62,23 @@
       <workItem from="1639505623417" duration="3719000" />
       <workItem from="1640526624073" duration="19532000" />
       <workItem from="1640608020650" duration="2770000" />
-      <workItem from="1640612884067" duration="1864000" />
+      <workItem from="1640612884067" duration="5641000" />
     </task>
+    <task id="LOCAL-00001" summary="monster list api">
+      <created>1640616278869</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1640616278869</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="monster list api" />
+    <option name="LAST_COMMIT_MESSAGE" value="monster list api" />
   </component>
 </project>
