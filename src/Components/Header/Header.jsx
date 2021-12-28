@@ -19,7 +19,7 @@ const Header  = () => {
             </li>
 
             <li className="nav-bar__item">
-                <Link to="/monsters" className="nav-bar__link">هیولاهای محبوب من</Link>
+                <Link to="/popularMonster" className="nav-bar__link">هیولاهای محبوب من</Link>
             </li>
 
             <li className="nav-bar__item">

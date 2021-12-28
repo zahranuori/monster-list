@@ -1,9 +1,9 @@
 import MonsterCard from "./MonsterCard/MonsterCard";
 import MonsterList from "./MonsterList/MonsterList";
-import MonsterListPopular from "./MonsterPopular/MonsterListPopular";
+import MonsterListPopular from "./MonsterListPopular/MonsterListPopular";
 import Header from "./Header/Header";
 import MonsterPage from "./MonsterPage/MonsterPage";
-import MonsterPopularCard from "./MonsterPopular/MonsterPopularCard.";
+import MonsterPopularCard from "./MonsterListPopular/MonsterPopularCard.";
 export {
     MonsterCard,
     MonsterList,

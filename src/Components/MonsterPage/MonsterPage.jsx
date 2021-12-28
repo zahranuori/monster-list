@@ -7,6 +7,7 @@ import {useParams} from "react-router-dom";
 const getMonster = async (id) => {
     const response = await fetch(`https://jsonplaceholder.typicode.com/users/${id}`)
     const data = await response.json()
+    console.log(data)
     return (data)
 }
 // const getMonsterP = (id) => {

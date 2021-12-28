@@ -1,6 +1,6 @@
 // import React, {useEffect} from "react";
 // import {Link} from "react-router-dom";
-// import './MonsterPopular.style.css';
+// import './MonsterListPopular.style.css';
 import {Col, Container, Row} from "react-bootstrap";
 import {MonsterPopularCard} from "../index";
 const MonsterListPouplar =() => {

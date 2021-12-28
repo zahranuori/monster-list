@@ -3,7 +3,7 @@ import "./img/wellcoming.png";
 import {BrowserRouter as Router , Outlet, Route, Routes, link} from "react-router-dom";
 import { Header,MonsterList,MonsterPage,MonsterListPopular} from "./Components";
 import welcoming from "./img/wellcoming.png";
-import {Badge} from "react-bootstrap";
+// import {Badge} from "react-bootstrap";
 
 function App() {
 
@@ -13,9 +13,11 @@ function App() {
            <Header/>
            <Routes>
                <Route path='monsters' element={<MonsterList />}/>
-               <Route path='monster/:monsterID' element={<MonsterPage />}/>
+               <Route path='popularMonster' element={<MonsterListPopular/>}/>
+               <Route path='monsters/:monsterID' element={<MonsterPage />}/>
            </Routes>
        </Router>
+
 <Blog/>
 
    </div>
