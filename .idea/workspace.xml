@@ -2,10 +2,85 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eff6705e-701c-4758-8bac-c33e070b5fc1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Components/MonsterList/MonsterList.style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/0d3e9d1e17ea160ea7fcadd7d4077ad4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/14fe79340916e95a94fa7a57313dba73.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/1a248d130e17b064b106b558078e2053.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/1ce34c87cc5b376ad283523cc095e459.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/1edb5c67eaa52455255895b7730bb9f7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/61380dc9e88e828dcc78d54e68beb230.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/658062165d669b09f2e63f8c70044309.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/697b7107a41afe82e7c48b5ab8287698.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/6beb1c9d4b31d4d5d338460bf46ab72c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/6f2bb6563d0c14fc6a33f23e41c161f9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/7ca2f90c3d70cde610899790a1faa166.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/7dabba98c8cae9411ccb2f2072b3b8fc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/86809b64947273a2ec71adb9952e5b08.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/8ade0fa54db2f7f073a822363c0bc015.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/9f282d537548eb7e9f750c4ecf82f6b7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/a9be6c166b76af8d959d4f490521db1c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/aa8a412587f44cb6bf488cb6bf42ab4d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/ab82a58db8079bdc1ed65c8d6b3c2fdb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/ae28e16d2fc5d85c7f66d2bfb1e25f3a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/becd4819ae6069cc803f5fc4551a6324.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/c82823eadc3a519c3b8da282306bd3c1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/d9527234a206bde4da401f593858df1f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/e49c9dac52ceffde2311f4fc9f74c37a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/e7e36a1aa8f8d4c101b51c20c9992788.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/ebd69dc423b16992c97a21d472520387.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/ecc13175a6cd27b4fd2d3e21d0f6a060.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/f3e84be10c618ae43f29bcbf118b98a8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/f4901ccbd0f8b55cd4f7ddcc2e3b11a1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/f49e4a2fd548b48fa01889c048e5eb26.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/f6ad6ef090cfa0205025245822cd4bd5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/f9e6b76defd832f547d34b1d362389b3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/MonsterPage/MonsterPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/MonsterPopular/MonsterPopular.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/MonsterPopular/MonsterPopular.style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/not-found.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/wellcoming.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.yarn-integrity" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.yarn-integrity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/history/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/history/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/history/browser.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/history/browser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/history/browser.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/history/browser.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/history/hash.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/history/hash.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/history/history.development.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/history/history.development.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/history/history.production.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/history/history.production.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/history/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/history/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/history/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/history/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/history/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/history/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/history/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/history/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/history/umd/history.development.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/history/umd/history.development.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/history/umd/history.development.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/history/umd/history.development.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/history/umd/history.production.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/history/umd/history.production.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router-dom/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router-dom/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router-dom/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router-dom/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router-dom/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router-dom/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router-dom/react-router-dom.development.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router-dom/react-router-dom.development.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router-dom/react-router-dom.production.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router-dom/react-router-dom.production.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router-dom/umd/react-router-dom.development.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router-dom/umd/react-router-dom.development.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router-dom/umd/react-router-dom.production.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router-dom/umd/react-router-dom.production.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/index.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/index.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/react-router.development.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/react-router.development.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/react-router.development.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/react-router.development.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/react-router.production.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/react-router.production.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/react-router.production.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/react-router.production.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/umd/react-router.development.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/umd/react-router.development.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/umd/react-router.development.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/umd/react-router.development.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/umd/react-router.production.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/umd/react-router.production.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-router/umd/react-router.production.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-router/umd/react-router.production.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Header/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Header/Header.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/MonsterList/MonsterList.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/MonsterList/MonsterList.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/MonsterList/MonsterList.style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/MonsterList/MonsterList.style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,13 +99,16 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="22GwADiPCn2MsJPjPNe56wrmJNk" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -62,7 +140,8 @@
       <workItem from="1639505623417" duration="3719000" />
       <workItem from="1640526624073" duration="19532000" />
       <workItem from="1640608020650" duration="2770000" />
-      <workItem from="1640612884067" duration="5641000" />
+      <workItem from="1640612884067" duration="24504000" />
+      <workItem from="1640681596080" duration="1312000" />
     </task>
     <task id="LOCAL-00001" summary="monster list api">
       <created>1640616278869</created>
@@ -71,14 +150,23 @@
       <option name="project" value="LOCAL" />
       <updated>1640616278869</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="filter search monster">
+      <created>1640619457750</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1640619457750</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="monster list api" />
-    <option name="LAST_COMMIT_MESSAGE" value="monster list api" />
+    <MESSAGE value="filter search monster" />
+    <option name="LAST_COMMIT_MESSAGE" value="filter search monster" />
   </component>
 </project>
