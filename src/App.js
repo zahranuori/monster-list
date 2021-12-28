@@ -1,24 +1,30 @@
 import React from "react";
-// import './App.css';
-import {useState, useEffect} from "react";
+import "./img/wellcoming.png";
 import {BrowserRouter as Router , Outlet, Route, Routes, link} from "react-router-dom";
-import { Header,MonsterList,MonsterPage} from "./Components";
+import { Header,MonsterList,MonsterPage,MonsterListPopular} from "./Components";
+import welcoming from "./img/wellcoming.png";
+import {Badge} from "react-bootstrap";
+
 function App() {
 
     return (
    <div>
-
        <Router>
+           <Header/>
            <Routes>
-               <Route path='/' element={<Header/>}/>
-               <Route path='/monsters' element={<MonsterList />}/>
-               <Route path=':monsterID' element={<MonsterPage/>}/>
+               <Route path='monsters' element={<MonsterList />}/>
+               <Route path='monster/:monsterID' element={<MonsterPage />}/>
            </Routes>
        </Router>
+<Blog/>
 
-       {/*<MonsterList />*/}
    </div>
     );
 }
-
+const Blog = () => (
+    <div>
+        <Outlet/>
+        <img className='img-welcome' src={welcoming}/>
+    </div>
+)
   export default App;

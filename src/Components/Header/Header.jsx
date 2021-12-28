@@ -27,17 +27,8 @@ const Header  = () => {
             </li>
 
         </ul>
-        {/*<Router>*/}
-        {/*    <Routes>*/}
-        {/*        <Route path='/' element={<Header/>}/>*/}
-        {/*        <Route path='/poupluar' element={<MonsterPopular />}/>*/}
-        {/*    </Routes>*/}
-        {/*</Router>*/}
-<Outlet/>
+
     </header>
-            <div>
-            <img src={welcoming}/>
-            </div>
         </div>
 
     )
