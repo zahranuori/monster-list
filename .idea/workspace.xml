@@ -2,16 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eff6705e-701c-4758-8bac-c33e070b5fc1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/32208eb59edbc14fa2a777c564e49a9e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/51b6f001cd03eb30d63f10e759b899cb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/5b8f7cdf4328e22ed620d815d7c8f617.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/67a47e6bb4c977d129343e799b54acf6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/68d477a67b5d3e76c36e1137f8da230f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/85193bb26823372552a8ae026bd936d2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/871a86e408158b34327940ec77d0ece2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/8ed96195d54c55507115521a3bb45748.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/9fbe61db16d2f50b377c990ddf0e68d4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/cb953e195fb6cea3c28414f49ab21a75.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/.eslintcache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Header/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Header/Header.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/MonsterList/MonsterList.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/MonsterList/MonsterList.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/MonsterPage/MonsterPage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/MonsterPage/MonsterPage.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/MonsterPopular/MonsterListPopular.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/MonsterListPopular/MonsterListPopular.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/MonsterPopular/MonsterPopular.style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/MonsterListPopular/MonsterPopular.style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/MonsterPopular/MonsterPopularCard..jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/MonsterListPopular/MonsterPopularCard..jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/MonsterListPopular/MonsterListPopular.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/MonsterListPopular/MonsterListPopular.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/MonsterListPopular/MonsterPopularCard..jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/MonsterListPopular/MonsterPopularCard..jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +76,8 @@
       <workItem from="1640526624073" duration="19532000" />
       <workItem from="1640608020650" duration="2770000" />
       <workItem from="1640612884067" duration="24504000" />
-      <workItem from="1640681596080" duration="14028000" />
+      <workItem from="1640681596080" duration="16087000" />
+      <workItem from="1640712018642" duration="1295000" />
     </task>
     <task id="LOCAL-00001" summary="monster list api">
       <created>1640616278869</created>
@@ -102,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640693429871</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="complete monster">
+      <created>1640697515631</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1640697515631</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +126,7 @@
     <MESSAGE value="filter search monster" />
     <MESSAGE value="changing page" />
     <MESSAGE value="add router page" />
-    <option name="LAST_COMMIT_MESSAGE" value="add router page" />
+    <MESSAGE value="complete monster" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete monster" />
   </component>
 </project>
